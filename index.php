@@ -1,4 +1,5 @@
 <?php
+exit("pull");
 /**
  * Application entry point
  *
